@@ -1,0 +1,98 @@
+
+body {
+    font-family: Monserrat, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    background-color: rgb(137, 75, 75);
+    color: white;
+}
+
+.nav-bar ul {
+    list-style: none;
+    margin: 0;
+    justify-content: space-between;
+    padding-top: 1rem; 
+    background-color: rgb(10, 36, 28);
+}
+
+li {
+    display: inline-block;
+    padding: 0.5rem 1.5rem ;
+    cursor: grab;
+}
+
+/*main text*/
+
+.main-text {
+    height: 30rem;
+    padding-top: 1rem;
+    margin: 4em auto;
+    
+
+}
+.main-text h1 {
+    text-align: center;
+    margin-top: 10rem;
+    padding: 2rem;
+    background-color: rgba(0.5, 0.5, 0.5, 0.5);
+    color: bisque;
+}
+
+/*central text*/
+
+.central-text {
+    padding: 0 0 0 1rem;
+}
+.three-img {
+    margin: 4em auto;
+}
+.three-img img {
+    width: 30%;
+    height: 15em;
+    padding: 1.5%;
+}
+
+.testimonial {
+    padding-top: 1rem;
+    padding: 0 1rem;
+    background-color: rgb(6, 61, 58);
+    margin: 4em auto;
+    height: 16rem;
+    padding-top: 1rem;
+}
+.testimonial h1 {
+    font-size: 1.8rem;
+    color:bisque;
+    
+}
+
+.three-img2 {
+    margin: 4em auto;
+}
+.three-img2 img {
+    width:30%;
+    height: 15em;
+    padding: 1.5%;
+}
+
+.meet {
+    padding: 0 1rem;
+}
+.meet h2 {
+    text-align: center;
+    color: yellow;
+}
+.meet img {
+   width:50%;
+    height: auto;
+    margin:auto;
+    display: block;
+}
+
+.end-bar ul {
+    list-style: none;
+    margin: 0;
+    justify-content: space-between;
+    padding-top: 1rem; 
+    background-color: rgb(10, 36, 28);
+}
